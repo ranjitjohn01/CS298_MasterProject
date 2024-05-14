@@ -1,6 +1,6 @@
 # CS298 - Comparing Balancing Techniques For Malware Classification
 
-## Description:
+## Description
 This code will experiment to find the best data balancing technique for
 malware classification when training with an imbalanced dataset. This project will leverage
 opcode proportions in binary files as training features for the classifiers. The code will try 
